@@ -49,5 +49,3 @@ O conteúdo segue a trilha do curso **"Aprenda SQL - Primeiras Magias na Linguag
 - [ ] Window Functions
 - [ ] DDL e DML
 - [ ] Projeto Final
-
-*Última atualização: em andamento 🚧*
