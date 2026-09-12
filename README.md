@@ -49,5 +49,3 @@ The content follows the **"Aprenda SQL - Primeiras Magias na Linguagem"** course
 - [ ] Window Functions
 - [ ] DDL and DML
 - [ ] Final Project
-
-*Last updated: work in progress 🚧*
