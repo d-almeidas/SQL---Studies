@@ -4,24 +4,6 @@ Repositório dedicado aos meus estudos de **SQL**, reunindo teoria e exercícios
 
 O conteúdo segue a trilha do curso **"Aprenda SQL - Primeiras Magias na Linguagem"**, do canal [Téo Me Why](https://www.youtube.com/@teomewhy), com 30 aulas cobrindo desde os conceitos básicos até tópicos mais avançados como Window Functions e DDL/DML.
 
-## 📂 Estrutura do repositório
-
-```
-sql-estudos/
-│
-├── teoria/           # Anotações e resumos de cada aula
-├── exercicios/        # Exercícios práticos organizados por tópico
-│   ├── 01-select-where/
-│   ├── 02-order-by-case-when/
-│   ├── 03-count-distinct-group-by/
-│   ├── 04-joins/
-│   ├── 05-subqueries-ctes/
-│   ├── 06-window-functions/
-│   └── 07-ddl-dml/
-├── projeto-final/     # Projeto final do curso
-└── README.md
-```
-
 ## Conteúdo estudado
 
 | Dia | Tópico |
