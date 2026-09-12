@@ -6,3 +6,4 @@ SELECT idCliente,
 FROM clientes
 
 WHERE QtdePontos >= 500
+ 
