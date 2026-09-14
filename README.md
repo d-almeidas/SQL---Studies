@@ -38,14 +38,3 @@ The content follows the **"Aprenda SQL - Primeiras Magias na Linguagem"** course
 | 27 | Exercises |
 | 28 | DDL and DML |
 | 29 | Final Project |
-
-## ✅ Progress
-
-- [x] Fundamentals (SELECT, FROM, WHERE)
-- [ ] Sorting and conditionals (ORDER BY, CASE WHEN)
-- [ ] Aggregations (COUNT, DISTINCT, GROUP BY, HAVING)
-- [ ] JOINs
-- [ ] SubQueries and CTEs
-- [ ] Window Functions
-- [ ] DDL and DML
-- [ ] Final Project
