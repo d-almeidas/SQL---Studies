@@ -1,7 +1,6 @@
 --Do dia 2025/08/25 a 2025/08/29 quantas pessoas assinaram a lista de presenca
 
-SELECT  t1.IdCliente,
-        substr(DtCriacao,1,11) AS Data,
+SELECT  COUNT(DISTINCT t1.IdCliente) AS ClientesTotais,
         t3.DescNomeProduto
 
 FROM transacoes AS t1
@@ -12,6 +11,6 @@ ON t1.IdTransacao = t2.IdTransacao
 LEFT JOIN produtos AS t3
 ON t2.Idproduto = t3.Idproduto
 
-WHERE DescNomeProduto = 'Lista de presença'
-AND Data >= '2025-08-25' 
-AND Data <= '2025-08-29'
+WHERE t3.DescNomeProduto = 'Lista de presença'
+AND t1.DtCriacao >= '2025-08-25' 
+AND t1.DtCriacao <= '2025-08-30'
